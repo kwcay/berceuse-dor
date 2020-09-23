@@ -145,6 +145,10 @@ body:after {
   font-size: 48px;
   color: black;
 }
+
+.map-space {
+ margin-bottom: 40px;
+}
 /* end added */
 
 .site-section {
